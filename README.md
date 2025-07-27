@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrei
+# 👦 About me
 
 🎓 I'm a Software Engineering student at **Florida International University (FIU)**  
 💻 Currently an intern at **Tekin Software**, gaining hands-on experience in real-world full-stack development  
