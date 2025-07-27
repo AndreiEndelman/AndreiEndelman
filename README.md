@@ -43,7 +43,7 @@ A fully functional task management web application developed independently durin
 
 ---
 
-📈 *I’m always learning, building, and open to new opportunities!*
+
 
 
 <!--
